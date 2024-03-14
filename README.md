@@ -1,35 +1,24 @@
-# twc-app-example-vue
+![Vue Logo](https://st.timeweb.com/cloud-static/apps-logo/vue.svg)
 
-This template should help get you started developing with Vue 3 in Vite.
+# Vue
 
-## Recommended IDE Setup
+Пример приложения [Vue](https://vuejs.org/), которое можно развернуть в **Timeweb Cloud Apps** без настройки.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+:tada: [Демо](https://timeweb-cloud-app-example-vue-f92a.twc1.net)
 
-## Customize configuration
+:rocket: [Создать свой Apps](https://timeweb.cloud/my/apps/create)
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+:books: [Документация Timeweb Cloud Apps](https://timeweb.cloud/docs/apps)
 
-## Project Setup
+## <a name="dev"></a>Локальный запуск проекта
 
-```sh
+```bash
+# установка зависимостей
 npm install
-```
 
-### Compile and Hot-Reload for Development
-
-```sh
+# запуск в дев режиме с отслеживанием изменений
 npm run dev
-```
 
-### Compile and Minify for Production
-
-```sh
+# сборка для продакшн с минификацией
 npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
 ```
